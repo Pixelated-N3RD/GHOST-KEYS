@@ -1,4 +1,4 @@
-# Password Generator — Pixelated Nerd
+# Password Generator — The Ghost Keys
 
 Client-side password generator using Web Crypto, with copy and local history (site/username tags).
 
